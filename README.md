@@ -5,7 +5,7 @@ Simula microsserviços com balanceamento de carga e inserção automática de da
 
 Clone o repo:
 ```
-git clone https://github.com/JonasAlv/microservice-docker/
+git clone https://github.com/JonasAlv/microservice-docker.git
 cd microservice-docker
 
 ```
